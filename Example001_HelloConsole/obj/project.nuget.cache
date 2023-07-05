@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zDf9Kj5oS1HBcC2CBtI+HK1BCd//67XijoY/yeBI1KAl9N4Z1wxOwJ59HQZ4XKGeExYZmzCheyCUpk79jHa74Q==",
+  "dgSpecHash": "wc4re2iN+dTp9zMapqfRJ7EwHz1fQo9hmwbbnJ7r47kXz57rSBSi+Ch0HLuJQ7I1K4nzurwc2MioQNEI6s5TLQ==",
   "success": true,
-  "projectFilePath": "/Users/nikolajgorobij/Desktop/Documents/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
+  "projectFilePath": "/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Lesson1/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

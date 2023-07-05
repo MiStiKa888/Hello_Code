@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nikolajgorobij/Desktop/Documents/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
+      "projectUniqueName": "/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Lesson1/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
       "projectName": "Example001_HelloConsole",
-      "projectPath": "/Users/nikolajgorobij/Desktop/Documents/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
+      "projectPath": "/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Lesson1/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
       "packagesPath": "/Users/nikolajgorobij/.nuget/packages/",
-      "outputPath": "/Users/nikolajgorobij/Desktop/Documents/Examples/Example001_HelloConsole/obj/",
+      "outputPath": "/Users/nikolajgorobij/Desktop/Documents/GeekBrains/C#/Lesson1/Examples/Example001_HelloConsole/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nikolajgorobij/.nuget/NuGet/NuGet.Config"
